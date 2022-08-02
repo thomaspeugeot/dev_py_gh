@@ -1,4 +1,5 @@
 
+
 import rhino3dm
 from flask import Flask
 import ghhops_server as hs
@@ -43,4 +44,4 @@ def pointat(curve: rhino3dm.Curve, t):
 
 
 if __name__ == "__main__":
-    pointatServer.run()
+    pointatServer.run(debug=True)
