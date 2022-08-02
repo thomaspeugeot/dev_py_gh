@@ -10,7 +10,7 @@
             "request": "launch",
             "module": "flask",
             "env": {
-                "FLASK_APP": "pointat.py",
+                "FLASK_APP": "hello_app.webapp",
                 "FLASK_ENV": "development"
             },
             "args": [
