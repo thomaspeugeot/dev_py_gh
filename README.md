@@ -7,3 +7,4 @@ to run the example,
 - in vscode, run the debugger 'Python: Flask' configuration
 - in rhino/grasshopper, open "call_from_hops.gh"
 
+has been tested on mac only
